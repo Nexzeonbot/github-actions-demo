@@ -10,3 +10,5 @@ else
 fi
 
 echo "Validation successful!"
+
+exit 1
