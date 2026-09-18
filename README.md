@@ -2,3 +2,4 @@
 Testing GitHub Actions
 GitHub Actions Trigger Test
 Second trigger test
+Success Test
